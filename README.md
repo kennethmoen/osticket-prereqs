@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-The following project demonstates how to set up a fully functioning ticketing system through osTicket, one complete with an admin account, agent panel and a page where end users can submit tickets.<br />
+The following project demonstates my ability to set up a fully functioning ticketing system through osTicket<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -31,14 +31,20 @@ The following project demonstates how to set up a fully functioning ticketing sy
 <p>
 <img src="https://i.imgur.com/rwsDH3w.png"/>
 </p>
+Part 1 (Create Virtual Machine in Azure)
+Create a Resource Group
+Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs
+  a. When creating the VM, allow it to create a new Virtual Network (Vnet)
 <p>
-Create a virtual machine in Azure that runs Windows 10 and has 2-4 cores. Once it's intiated connect to it with remote desktop and enable IIS. Do this by clicking on the search bar and searching control panel then go to programs and then click Windows features on or off and enable Internet Information Serves and then enable CGI inisde of Application Development Features and Common HTTP Features also make sure IIS Management Console is enabled inside of WebManagement Tools.
+
   
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/8h1Wvvb.png"/>
+Part 2 (Installation)
+![image](https://github.com/kennethmoen/osticket-prereqs/assets/145589069/19074933-e041-4751-86e1-d58a540d3c71)
+
 </p>
 <p>
 Open a web browser and type in 127.0.0.1 and if the installation worked then this page should appear. This address is the loopback address.
