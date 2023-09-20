@@ -26,7 +26,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/R0j8B3U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kennethmoen/osticket-prereqs/assets/145589069/4585de2a-db93-4798-87be-24f0ce1a8789)
+" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Log into Azure and create your resource group and virtual machine using windows 10 (2-4 virtual CPUS) and allowing the Virtual network to create a new Vnet. Name the Virtual Machine: Vm-osTicket create a username and password. I recommend writing it down or typing it in notepad and saving the information. Log in to your virtual machine via remote desktop.
