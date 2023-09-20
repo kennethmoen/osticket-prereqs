@@ -1,5 +1,4 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
@@ -32,8 +31,8 @@ The following project demonstates my ability to set up a fully functioning ticke
 <img src="https://i.imgur.com/rwsDH3w.png"/>
 </p>
 Part 1 (Create Virtual Machine in Azure)
-Create a Resource Group
-Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs
+- Create a Resource Group
+- Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs
   a. When creating the VM, allow it to create a new Virtual Network (Vnet)
 <p>
 
