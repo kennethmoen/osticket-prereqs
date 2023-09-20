@@ -43,7 +43,7 @@ Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs
 
 <p>
 Part 2 (Installation)
-![image](https://github.com/kennethmoen/osticket-prereqs/assets/145589069/19074933-e041-4751-86e1-d58a540d3c71)
+<img src="https://github.com/kennethmoen/osticket-prereqs/assets/145589069/19074933-e041-4751-86e1-d58a540d3c71"/>
 
 </p>
 <p>
