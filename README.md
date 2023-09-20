@@ -12,6 +12,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
+![image](https://github.com/kennethmoen/osticket-prereqs/assets/145589069/1bb9af82-93ac-48e1-ba48-2de50cf52cd4)
 
 - Windows 10</b> (21H2)
 
