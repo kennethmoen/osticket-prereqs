@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://github.com/kennethmoen/osticket-prereqs/assets/145589069/4585de2a-db93-4798-87be-24f0ce1a8789" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kennethmoen/osticket-prereqs/assets/145589069/4585de2a-db93-4798-87be-24f0ce1a8789"/>
 </p>
 <p>
 Log into Azure and create your resource group and virtual machine using windows 10 (2-4 virtual CPUS) and allowing the Virtual network to create a new Vnet. Name the Virtual Machine: Vm-osTicket create a username and password. I recommend writing it down or typing it in notepad and saving the information. Log in to your virtual machine via remote desktop.
@@ -50,7 +50,7 @@ Once logged into the virtual machine open the IIS system from the control pannel
 <br />
 
 <p>
-<img src="https://i.imgur.com/L1KIV7C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kennethmoen/osticket-prereqs/assets/145589069/055d5c98-92de-4b2f-9fbf-8ee6ed83829f)"/>
 </p>
 
  After enabling the IIS features it's time to install the files for the osTicket System. Download and install:
