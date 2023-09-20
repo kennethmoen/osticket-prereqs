@@ -12,7 +12,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
-![image](https://github.com/kennethmoen/osticket-prereqs/assets/145589069/1bb9af82-93ac-48e1-ba48-2de50cf52cd4)
 
 - Windows 10</b> (21H2)
 
@@ -35,7 +34,7 @@ Log into Azure and create your resource group and virtual machine using windows 
 <br />
 
 <p>
-<img src="https://i.imgur.com/3tekzq9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kennethmoen/osticket-prereqs/assets/145589069/16b1abbe-1d8c-404d-93c0-9abb90ca6f6c"/>
 </p>
 
 Once logged into the virtual machine open the IIS system from the control pannel. once the control pannel is open go to programs and turn windows features on and off.
