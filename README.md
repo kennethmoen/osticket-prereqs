@@ -115,5 +115,7 @@ Continue Setting up osticket in the browser
 - MySQL Username: root
 - MySQL Password: Password1
 - Click “Install Now!”
-
+- If everything was installed without errors you will end up with an admin page, and a end user page that looks like this:
+<img src="https://github.com/kennethmoen/osticket-prereqs/assets/145589069/fbd87fe3-9433-4a90-a9d9-6052305388d9"/>
+<img src="https://github.com/kennethmoen/osticket-prereqs/assets/145589069/1d6ddcb5-d3ae-478e-bfba-1b08da30c820"/>
 <br />
